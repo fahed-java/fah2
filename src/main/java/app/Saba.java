@@ -57,8 +57,7 @@ public class Saba {
 //        boolean abc1 = false;
 //        System.out.println(!(abc&&abc1));
 
-<<<<<<< HEAD
-=======
+
         // التجربة الأولى
 //        int A = 10;
 //        int B = 20;
@@ -90,7 +89,7 @@ public class Saba {
         int a = 5;
         int b = 2300;
         System.out.println(a%=b);
->>>>>>> github/master
+
 
     }
 
